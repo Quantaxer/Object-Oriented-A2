@@ -1,0 +1,32 @@
+CIS*2430,0.5,Object Oriented Programming,F19,CIS*2500
+CIS*2750,0.75,Software Systems Development and Integration,F19,CIS*2520:CIS*2430
+CIS*1500,0.5,Intro to Programming,W18,
+CIS*2520,0.5,Data Structures,W18,CIS*2500
+CIS*1910,0.5,Discrete Structures in Computing 1,W18,
+CIS*2910,0.5,Discrete Structures in Computing 1,F19,CIS*1910
+CIS*2500,0.5,Intermediate Programming,W18,CIS*1500
+CIS*3530,0.5,Data Base Systems and Concepts,F19,CIS*2520
+MATH*1080,0.5,Elements of Calculus,W18,
+MATH*1210,0.5,Calculus II,F19,MATH*1080
+CIS*2170,0.75,User Interface Design,W19,CIS*1500
+STAT*2040,0.5,Statistics I,F19,MATH*1080
+CIS*3190,0.5,Legacy Systems,W19,CIS*2500
+CIS*3000,0.5,Social Implications of Computing,W18,CIS*2430
+ASCI*1110,0.5,Uses of Knowledge,W19,
+BIOL*1020,0.5,Introduction to Biology,W18,
+CHEM*1040,0.5,General Chemistry I,W18,
+CHEM*1050,0.5,General Chemistry II,W19,CHEM*1040
+ECON*1050,0.5,Introductory Microeconomics,W18,
+PHYS*1010,0.5,Introductory Electricity and Magnetism,W18,MATH*1080
+MATH*2080,0.5,Elements of Calculus II,W18,MATH*1080
+PHYS*1600,0.5,Contemporary Astrononmy,W18,
+ENGL*1200,0.5,Reading in the Contemporary World,W18,
+ENGL*2230,0.5,Popular Genres,W18,ENGL*1200
+HIST*1250,0.5,Science and Technology in a Global Context,F19,
+HIST*2020,0.5,Film as History,F19,
+HIST*2120,0.5,Animals and Society,F19,HIST*2020:ENGL*1200
+CIS*2460,0.5,Simulation and Modelling,F19,CIS*2500
+PSYC*2040,0.5,Research Statistics,F19,STAT*2040
+GEOG*1220,0.5,Human Impact on the Environment,F19,
+GEOG*2030,0.5,Environment and Development,F19,GEOG*1220
+GEOG*2210,0.5,Environment and Resources,W19,GEOG*1220
