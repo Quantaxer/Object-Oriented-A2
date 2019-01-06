@@ -1,0 +1,57 @@
+CIS*2430,0.5,Object Oriented Programming,F,CIS*2500
+CIS*2750,0.75,Software Systems Development and Integration,B,CIS*2520:CIS*2430
+CIS*1500,0.5,Intro to Programming,B,
+CIS*2520,0.5,Data Structures,B,CIS*2500
+CIS*1910,0.5,Discrete Structures in Computing 1,F,
+CIS*2910,0.5,Discrete Structures in Computing 1,F,CIS*1910
+CIS*2500,0.5,Intermediate Programming,W,CIS*1500
+CIS*3530,0.5,Data Base Systems and Concepts,F,CIS*2520
+MATH*1080,0.5,Elements of Calculus,F,
+MATH*1200,0.5,Calculus I,F,
+MATH*1210,0.5,Calculus II,W,MATH*1200
+CIS*2170,0.75,User Interface Design,W,CIS*1500
+STAT*2040,0.5,Statistics I,F,MATH*1200
+CIS*3190,0.5,Legacy Systems,W,CIS*2500
+CIS*3000,0.5,Social Implications of Computing,W,CIS*2430
+ASCI*1110,0.5,Uses of Knowledge,W,
+BIOL*1020,0.5,Introduction to Biology,B,
+CHEM*1040,0.5,General Chemistry I,F,
+CHEM*1050,0.5,General Chemistry II,W,CHEM*1040
+ECON*1050,0.5,Introductory Microeconomics,B,
+PHYS*1010,0.5,Introductory Electricity and Magnetism,W,MATH*1200
+MATH*2080,0.5,Elements of Calculus II,W,MATH*1080
+PHYS*1600,0.5,Contemporary Astrononmy,W,
+ENGL*1200,0.5,Reading in the Contemporary World,W,
+ENGL*2230,0.5,Popular Genres,W,ENGL*1200
+HIST*1250,0.5,Science and Technology in a Global Context,F,
+HIST*2020,0.5,Film as History,F,
+HIST*2120,0.5,Animals and Society,F,HIST*2020:ENGL*1200
+CIS*2460,0.5,Simulation and Modelling,F,CIS*2500
+PSYC*2040,0.5,Research Statistics,F,STAT*2040
+GEOG*1220,0.5,Human Impact on the Environment,F,
+GEOG*2030,0.5,Environment and Development,F,GEOG*1220
+GEOG*2210,0.5,Environment and Resources,W,GEOG*1220
+CIS*2500,0.5,Intermediate Programming,W,CIS*1500
+CIS*2030,0.5,Structure and Application of Microcomputers,F,CIS*1910:CIS*2500
+CIS*3110,0.5,Operating Systems I,W,CIS*2500
+CIS*3490,0.5,The Analysis and Design of Computer Algorithms,W,CIS*2910:CIS*2520
+CIS*3150,0.5,Theory of Computation,F,CIS*2750:CIS*3490
+CIS*3750,0.75,System Analysis and Design in Applications,F,CIS*2750
+CIS*3760,0.75,Software Engineering,W,CIS*2750
+CIS*4650,0.5,Compilers,W,CIS*2030:CIS*3110:CIS*3150
+CIS*1250,0.5,Software Design,F,
+CIS*2250,0.5,Software Design II,W,CIS*1250:CIS*1500
+CIS*3250,0.5,Software Design III,F,CIS*2250:CIS*2500
+CIS*3260,0.5,Software Design IV,F,CIS*2430:CIS*2750:CIS*3250
+CIS*4150,0.5,Software Reliability and Testing,F,CIS*3760
+CIS*4250,0.5,Software Design V,F,CIS*2750:CIS*3260:CIS*3750
+CIS*4300,0.5,Human Computer Interaction,F,CIS*3110:CIS*3760
+THST*1040,0.5,Introduction to Theatre Studes,F,
+THST*1190,0.5,Theatre Workshop I,W
+THST*1270,0.5,Theatre Research I,W
+THST*2050,0.5,Devising,F,THST*1040
+THST*2190,1.0,Theatre Workship II,W,THST*1190
+THST*2270,0.5,Theatre Research II,W,THST*1270
+THST*3170,0.5,Special Topics,F,THST*2050
+THST*4270,0.5,Research Seminar I,F,THST*2190:THST*2270:THST*2050
+THST*4280,1.0,Ensemble Project,W,THST*4270
